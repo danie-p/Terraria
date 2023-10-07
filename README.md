@@ -1,2 +1,2 @@
 # Terraria
-A simplified version of Terraria
+Zjednodušená verzia hry Terraria, vytvorená ako semestrálna práca z predmetu Informatika 2.
