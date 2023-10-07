@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="terraria:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/terraria_jar</output-path>
+    <root id="archive" name="terraria.jar">
+      <element id="module-output" name="terraria" />
+    </root>
+  </artifact>
+</component>
